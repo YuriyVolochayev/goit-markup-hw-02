@@ -112,6 +112,6 @@ a {
   text-align: center;
 }
 
-.title-list {
-  background-color: #ffffff;
+.title-list .title-item {
+  background-color: #fff;
 }
