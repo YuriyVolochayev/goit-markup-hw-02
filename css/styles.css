@@ -100,7 +100,7 @@ a {
 .title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -113,5 +113,5 @@ a {
 }
 
 .title-list {
-  background-color: #fff;
+  background-color: #ffffff;
 }
