@@ -92,16 +92,26 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.thrd-section {
+  background-color: #f4f4fd;
+}
+
 .title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .title-item .subtitle,
 .title-item .text {
   text-align: center;
+}
+
+.title-list {
+  background-color: #fff;
 }
