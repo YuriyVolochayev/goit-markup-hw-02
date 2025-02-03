@@ -115,3 +115,11 @@ a {
 .title-list .title-item {
   background-color: #fff;
 }
+
+.logo-footer .logo-part {
+  color: #f4f4fd;
+}
+
+.page-footer .text {
+  color: #f4f4fd;
+}
